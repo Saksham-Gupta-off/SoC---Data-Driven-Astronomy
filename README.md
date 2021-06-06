@@ -5,19 +5,17 @@ SoC- Progress Report
 Saksham Gupta	 20D170037
 
 
-
-
 Checkpoints:-
 
 Week 1 Assignment Done
 	Questions uploaded at my GitHub repository here
-(https://github.com/Saksham-Gupta-off/SoC---Data-Driven-Astronomy)
+		(https://github.com/Saksham-Gupta-off/SoC---Data-Driven-Astronomy)
 
 Coursera Course (6 weeks) on Data Driven Astronomy Completed
-	(Data-driven Astronomy - Home | Coursera)
+	(https://www.coursera.org/learn/data-driven-astronomy/home/welcome)
 
-Image processing Course started (The Planetary Society)
-
+Image processing Course started 
+	(https://courses.planetary.org/courses/enrolled/895596)
 
 
 
