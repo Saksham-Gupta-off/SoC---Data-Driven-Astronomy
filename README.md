@@ -10,7 +10,7 @@ Checkpoints:-
 <br />
 <br />
 
-<b>Week 0 : Assignment on Python</b><br />
+<b>Week 0-1 : Assignment on Python</b><br />
 Learnt some Python libraries and syntax.<br />
 
 a) Plotting a histogram of randomly rolling a pair of dice<br />
@@ -19,7 +19,7 @@ c) Sorting a given list<br />
 <br />
 <br />
 
-<b>Week 1-4 Coursera Courseon Data Driven Astronomy</b><br />
+<b>Week 2-4 Coursera Courseon Data Driven Astronomy</b><br />
 (https://www.coursera.org/learn/data-driven-astronomy/home/welcome)
 <br />
 
